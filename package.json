@@ -1,6 +1,12 @@
 {
   "name": "remark",
   "version": "0.14.0",
+  "main": "src/index.js",
+  "style": "src",
+  "directories": {
+    "lib": "./src/remark/",
+    "test": "./test/"
+  },
   "dependencies": {
     "marked": "0.3.1"
   },
