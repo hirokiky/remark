@@ -1,5 +1,5 @@
 {
-  "name": "remark",
+  "name": "remark-slide",
   "version": "0.14.1",
   "main": "src/index.js",
   "style": "src",
